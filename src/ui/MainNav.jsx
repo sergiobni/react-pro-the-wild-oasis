@@ -79,13 +79,13 @@ function MainNav() {
         <li>
           <StyledNavLink to="/users">
             <HiOutlineUsers />
-            Bookings
+            Users
           </StyledNavLink>
         </li>
         <li>
           <StyledNavLink to="/settings">
             <HiOutlineCog6Tooth />
-            Bookings
+            Settings
           </StyledNavLink>
         </li>
       </NavList>
